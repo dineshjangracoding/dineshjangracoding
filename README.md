@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dineshjangracoding
-- 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning HTML5
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m working as Web Devloper as freelancer. 
+- 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me Insta@lens_spirit
 
 <!---
