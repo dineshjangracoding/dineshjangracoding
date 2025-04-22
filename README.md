@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dineshjangracoding
-- 👀 I’m working as Web Devloper as freelancer. 
-- 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me Insta@lens_spirit
+- 👀 I’m working as Web Developer as freelancing. 
+- 💞️ I’m looking to collaborate on different projects.
+- 📫 Reach me Insta@lens_spirit
 
 <!---
 dineshjangracoding/dineshjangracoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
